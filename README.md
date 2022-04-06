@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Tic Tac Toe Game - Github URL](https://github.com/MouhsineNejmi/tic-tac-toe)
-- Live Site URL: [Tic Tac Toe Game - Live URL](https://interactive-rating-app-murex.vercel.app/)
+- Live Site URL: [Tic Tac Toe Game - Live URL](https://tic-tac-toe-lake-eta.vercel.app/)
 
 ## My process
 
